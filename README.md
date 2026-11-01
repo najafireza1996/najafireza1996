@@ -1,6 +1,6 @@
 <h1 align="center">Reza Najafi</h1>
 <p align="center">
-  <b>Backend Lead · .NET</b><br>
+  <b>Backend Engineer · .NET</b><br>
   I build reliable, well-structured backend systems.
 </p>
 
@@ -12,16 +12,16 @@
 
 ## About
 
-I'm a Backend Lead focused on designing and building scalable, maintainable systems with Domain-Driven Design. I care about clean architecture, data consistency and clear boundaries that keep holding up as a system grows.
+I'm a backend engineer focused on designing and building scalable, maintainable systems with Domain-Driven Design. I care about clean architecture, data consistency and clear boundaries that keep holding up as a system grows.
 
-I'm comfortable leading a team, making architectural decisions, and choosing the right approach for the problem rather than following trends.
+I like making sound architectural decisions and choosing the right approach for the problem rather than following trends.
 
 ## What I work on
 
 - Domain modeling with DDD
 - Event-driven and distributed architectures
 - Backend design, performance and data consistency
-- Technical leadership and code quality
+- Code quality and testing
 
 ## Stack
 

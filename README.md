@@ -25,22 +25,11 @@ I like making sound architectural decisions and choosing the right approach for 
 
 ## Stack
 
-**Backend:** C# · .NET 8 · ASP.NET Core · Entity Framework Core
+**Backend:** Java · Spring Boot · JPA · C# · .NET 8 · ASP.NET Core · Entity Framework Core
 **Architecture:** DDD · Microservices · Modular Monolith · Event-Driven · CQRS
-**Data & Messaging:** SQL Server · Kafka
+**Data & Messaging:** SQL Server ·Postgres · Kafka · ELK ·HashiCorp Vault
 **Also:** Flutter / Dart (my mobile background) · learning Rust
 
-## Side projects
-
-- **IELTS exam app**: a PWA for IELTS practice, close to release
-- **Rust open-source project**: starting with a faster rewrite of `ansible-lint`
-
-## Where I started
-
-I began in mobile as a Flutter developer. Examples of that work:
-[flutter_template_app](https://github.com/najafireza1996/flutter_template_app) (a clean-architecture starter) ·
-[custom_snackbar](https://github.com/najafireza1996/custom_snackbar) ·
-[web_app_crud](https://github.com/najafireza1996/web_app_crud)
 
 ## Languages
 
